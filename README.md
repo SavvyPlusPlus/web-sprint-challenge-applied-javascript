@@ -80,7 +80,7 @@ The document object model, that works with elements from HTML.
 An event is user interaction with a site via event listeners.
 3. What is an event listener?
 The tracking process and subsequent action taken (placed on an element and give it a callback, when the event is triggered on the element, the call back is run.
-4. Why would we convert a NodeList into an Array?
+4. Why would we convert a NodeList into an array?
 So we can access the data within an array. Because NodeList can not access other array methods besides .forEach().
 5. What is a component?
 A component is the combination of HTML, CSS, or JavaScript to reuse in a website or application.

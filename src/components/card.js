@@ -46,7 +46,7 @@ const Card = (article) => {
   });
 
 
-  return card;
+  return card
  
 }
 
